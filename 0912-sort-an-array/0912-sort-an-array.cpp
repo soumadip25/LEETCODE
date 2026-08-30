@@ -40,8 +40,6 @@ void Ms(vector<int> &nums,int low, int high){
     Ms(nums,mid+1,high);
     Merge(nums,low,mid,high);
 }
-void Mergesort(vector<int> &nums, int n){
-    Ms(nums , 0,n-1);
-}
+
 
 };

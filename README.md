@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/soumadip25/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumadip25/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0912-sort-an-array](https://github.com/soumadip25/LEETCODE/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumadip25/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/soumadip25/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
